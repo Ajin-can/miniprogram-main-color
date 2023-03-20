@@ -1,5 +1,5 @@
 {
   "usingComponents": {
-    "mainColor": "../components/miniprogram-main-color"
+    "mainColor": "/components/miniprogram-main-color"
   }
 }
