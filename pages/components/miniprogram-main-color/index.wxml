@@ -1,0 +1,1 @@
+<canvas type="2d" id="canvas" style="width: 300px; height: 300px; position: absolute; z-index: -999; top: -100vh;"></canvas>

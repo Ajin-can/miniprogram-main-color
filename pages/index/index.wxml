@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<mainColor id="mainColor" />
+
+<image src="../images/205164915.jpg" style="width: 500rpx;" mode="widthFix"></image>
+
+<view style="width: 100rpx; height: 100rpx; background-color: rgb({{rgb}});"></view>
